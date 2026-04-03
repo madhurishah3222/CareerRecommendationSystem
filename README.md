@@ -28,11 +28,6 @@ A Machine Learning-based web application that analyzes student academic performa
 
 ---
 
-## 📷 Screenshots
-(Add screenshots here — very important)
-
----
-
 ## 🚀 Installation & Setup
 
 ```bash
